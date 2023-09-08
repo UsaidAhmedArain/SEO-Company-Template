@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.list a{
+    font-size: 14px;
+}
+
+.nav-btn{
+    padding: 2px 14px;
+    border: none;
+    outline: none;
+    background-color: #6772e5;
+    color: white;
+    font-size: 13px;
+    text-transform: capitalize;
+}
+
+.hero-para{
+    font-size: 18px;
+    color: #8da2b5;
+}
+
+.first-para{
+    max-width: 70%;
+    font-size: 18px;
+    color: #8da2b5;
+}
+
+.categories{
+    list-style-type: none;
+}
+
+.pricing-cards{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.last-section{
+    background-image: url("Images/call-to-action.png");
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+.last-btn{
+    border: none;
+    outline: none;
+    padding: 13px 35px;
+    color: #6772e5;
+    background-color: white;
+}
+
+.footer-links{
+    list-style: none;
+}
+
+.footer-links a{
+    text-decoration: none;
+    color: #62656a;
+    font-size: 14px;
+    transition: all .3s ease-in;
+}
+
+.footer-links a:hover{
+    color: #6772e5;
+}
+
+#email{
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#copyright{
+    color: #6772e5;
+    font-size: 13px;
+}
+
+.icons i:hover{
+    color: #6772e5;
+}
